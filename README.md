@@ -10,7 +10,7 @@
   - [📍 Problem Background](#-problem-background)
   - [💡 The Solution](#-the-solution)
   - [✨ Key Features](#-key-features)
-  - [🚀 Our Flagship Feature: AI-Powered Sidechain Optimization](#-our-flagship-feature-ai-powered-sidechain-optimization)
+  - [🚀 Flagship Feature: AI-Powered Sidechain Optimization](#-our-flagship-feature-ai-powered-sidechain-optimization)
   - [🛠️ Technology Stack (Assumed)](#️-technology-stack-assumed)
   - [🏁 Getting Started](#-getting-started)
     - [Prerequisites](#prerequisites)
