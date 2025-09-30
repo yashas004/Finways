@@ -1,6 +1,4 @@
-# Finways 핀
-
-![Finways Banner](https://via.placeholder.com/1200x300.png?text=Finways%3A+AI-Powered+Blockchain+Decongestion)
+# Finways
 
 > Leveraging Artificial Intelligence to Decongest Blockchain Networks and Revolutionize the Crypto Experience.
 
