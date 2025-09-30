@@ -39,7 +39,7 @@ The goal is to create a seamless and efficient crypto experience for everyone, f
 
 ## 🚀 Flagship Feature: AI-Powered Sidechain Optimization
 
-The project's core innovation is the integration of machine learning to manage and optimize blockchain load through sidechains. By leveraging AI, we significantly improve the efficiency of how transactions are handled between the main chain and its sidechains.
+The project's core innovation is the integration of machine learning to manage and optimize blockchain load through sidechains.
 
 This system involves:
 * 📊 **Data Collection and Analysis:** Collecting and analyzing comprehensive data from both the main chain and sidechains to identify patterns, bottlenecks, and inefficiencies.
