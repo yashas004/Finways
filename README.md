@@ -8,7 +8,7 @@
 
 ### Table of Contents
 
-- [Finways 핀](#finways-핀)
+- [Finways ](#finways)
     - [Table of Contents](#table-of-contents)
   - [📍 Problem Background](#-problem-background)
   - [💡 The Solution](#-the-solution)
@@ -18,9 +18,8 @@
   - [🏁 Getting Started](#-getting-started)
     - [Prerequisites](#prerequisites)
     - [Installation](#installation)
-  - [👥 Our Team](#-our-team)
-  - [📞 Contact](#-contact)
-  - [📄 License](#-license)
+    - [📞 Contact](#-contact)
+    - [📄 License](#-license)
 
 ## 📍 Problem Background
 
