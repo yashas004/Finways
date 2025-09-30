@@ -7,9 +7,6 @@
 ---
 
 ### Table of Contents
-
-- [Finways ](#finways)
-    - [Table of Contents](#table-of-contents)
   - [📍 Problem Background](#-problem-background)
   - [💡 The Solution](#-the-solution)
   - [✨ Key Features](#-key-features)
